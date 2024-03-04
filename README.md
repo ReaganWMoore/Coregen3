@@ -6,7 +6,9 @@ Persons who link their ancestors to the Unifying Ancestry are then related to al
 Progenitors for Western Europeans.
 
 Coregen3 parses a Gedcom file to load a graph database.  The user interface provides Sort / Search / Scroll options for comparing results
-of multiple graph traversal operations.  Coregen3 is dimensioned to handle Gedcom files with up to 350,000 persons. Graph traversal operations
+of multiple graph traversal operations.  Coregen3 is dimensioned to handle Gedcom files with up to 350,000 persons. 
+
+Graph traversal operations
 include Ancestors, Descendants, Relatives, Ascents, Descents, Ancestral fractional distribution, Descendant fractional distribution, Lineage of maximal ascent, Lineage of maximal descent, 
 Own Cousin analysis, parental cousin analysis, Partition into extended families, Progenitors, Treetops, Lineage to an ancestor, Lineage traversing the smallest number of partitions, and Lineage traversing the smallest number of persons.
 
