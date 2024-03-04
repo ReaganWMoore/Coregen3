@@ -14,4 +14,5 @@ Own Cousin analysis, parental cousin analysis, Partition into extended families,
 
 Operations on groups of persons include Relationship of group members to a Root person, Common ancestors, Common descendants, and Common Relatives.
 
-Operations on the Unifying Ancestry include Connection year, Number of Core ancestors of each person in the gedcom file, and Core own cousin.
+Operations on the Unifying Ancestry include Connection year, Number of Core ancestors of each person in the gedcom file, and Core own cousin which is used 
+to calculate the properties of the Unifying Ancestry.
